@@ -1,0 +1,3 @@
+name: ActionsAPI
+version: '${version}'
+main: lol.gggedr.actionsapi.ActionsAPI
